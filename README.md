@@ -6,4 +6,4 @@ Descrição: A tarefa consiste na criação da simulação de um baralho, cujo a
            apresentada, vencendo aquele com a carta de maior valor, caso as cartas tenham o mesmo valor, é verificado o naipe das cartas e se somente um dos jogadores
            tiver uma carta de naipe "Ouros" ele é considerado vitorioso, nos demais casos o jogo recomeça.
            
-![diagrama de classe](https://user-images.githubusercontent.com/72704469/229305653-9294db29-9223-4320-9367-498ccae7c8a3.png)
+           ![diagrama de classe](https://user-images.githubusercontent.com/72704469/229305653-9294db29-9223-4320-9367-498ccae7c8a3.png)
